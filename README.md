@@ -1,6 +1,10 @@
 # GTA VI launch-day Twitch viewers forecast
 
-Entry for `gta6-twitch-ccu-forecast-01`: forecasts the Twitch concurrent
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/badhanali30-bit/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/badhanali30-bit/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Entry for the [make.fun bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01): forecasts the Twitch concurrent
 viewers in the Grand Theft Auto VI category for hours 2–24 of release
 day 2026-11-19 (UTC), as five quantiles (0.05 / 0.25 / 0.5 / 0.75 / 0.95)
 per hour. Python 3.13, standard library only, no network, deterministic.
